@@ -146,7 +146,4 @@ Such predictive systems can serve as **decision-support tools** for doctors, hel
 ---
 
 ✨ *This project showcases end-to-end data preprocessing, EDA, model building, and evaluation — a complete ML workflow applied to healthcare.*
-
----
-
-Would you like me to also **write a shorter 3-section version** of this README (Overview → Methodology → Results & Conclusion) that’s more compact for a recruiter-friendly GitHub profile?
+ 
